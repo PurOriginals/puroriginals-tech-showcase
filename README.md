@@ -36,7 +36,8 @@ Actualmente busco posiciones de soporte técnico / atención al cliente bilingü
 
 ```
 puroriginals-tech-showcase/
-├── docs/               # Documentación de arquitectura y capturas del dashboard
+├── docs/
+│   └── screenshots/     # Capturas del dashboard (datos sensibles ocultos)
 ├── examples/           # (opcional) fragmentos de código de ejemplo, sin datos reales
 └── README.md
 ```
@@ -45,11 +46,13 @@ puroriginals-tech-showcase/
 
 ## 📊 Impacto
 
-El sistema gestiona el catálogo completo de inventario del negocio y automatiza tareas que antes se hacían manualmente (carga de productos, actualización de precios, atención inicial de clientes por WhatsApp), liberando tiempo para enfocarse en ventas y atención personalizada. *(No se incluyen cifras exactas por tratarse de información sensible del negocio.)*
+El sistema gestiona el catálogo completo de inventario del negocio (actualmente alrededor de 90 productos con más de 60 variantes activas por talla/color) y automatiza tareas que antes se hacían manualmente (carga de productos, actualización de precios, atención inicial de clientes por WhatsApp), liberando tiempo para enfocarse en ventas y atención personalizada. *(No se incluyen cifras financieras exactas por tratarse de información sensible del negocio.)*
 
 ## 🖼️ Capturas de pantalla
 
-*(Espacio reservado — se agregarán capturas del dashboard con datos de ejemplo/ficticios, sin precios ni inventario real.)*
+Dashboard de inventario (los valores de precios, inventario, márgenes y códigos de producto fueron ocultados intencionalmente):
+
+![Dashboard de PurOriginals](docs/screenshots/dashboard-sanitized.png)
 
 ## 🔒 Nota sobre privacidad
 
@@ -57,5 +60,7 @@ Este repositorio es una adaptación con fines de portafolio. Se excluyen intenci
 
 ## 📫 Contacto
 
-Johan — PurOriginals
-[Agregar correo / LinkedIn]
+Johan Camilo — PurOriginals
+
+- LinkedIn: [linkedin.com/in/jcamiloard](https://www.linkedin.com/in/jcamiloard/)
+- Correo: jcamiloard@gmail.com
