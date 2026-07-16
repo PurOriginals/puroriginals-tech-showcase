@@ -36,7 +36,8 @@ I'm currently looking for bilingual technical support / customer service (BPO) r
 
 ```
 puroriginals-tech-showcase/
-├── docs/               # Architecture documentation and dashboard screenshots
+├── docs/
+│   └── screenshots/     # Dashboard screenshots (sensitive data hidden)
 ├── examples/           # (optional) sample code snippets, no real data
 └── README.md
 ```
@@ -45,11 +46,13 @@ puroriginals-tech-showcase/
 
 ## 📊 Impact
 
-The system manages the business's full inventory catalog and automates tasks that used to be done manually (product uploads, price updates, initial WhatsApp customer responses), freeing up time to focus on sales and personalized service. *(Exact figures are omitted as they are sensitive business data.)*
+The system manages the business's full inventory catalog (currently around 90 products with 60+ active size/color variants) and automates tasks that used to be done manually (product uploads, price updates, initial WhatsApp customer responses), freeing up time to focus on sales and personalized service. *(Exact financial figures are omitted as they are sensitive business data.)*
 
 ## 🖼️ Screenshots
 
-*(Placeholder — dashboard screenshots with sample/fictional data will be added here, with no real prices or inventory.)*
+Inventory dashboard (prices, inventory value, margins, and product codes were intentionally hidden):
+
+![PurOriginals Dashboard](docs/screenshots/dashboard-sanitized.png)
 
 ## 🔒 Privacy note
 
@@ -57,5 +60,7 @@ This repository is a portfolio adaptation. Intentionally excluded: real prices, 
 
 ## 📫 Contact
 
-Johan — PurOriginals
-[Add email / LinkedIn]
+Johan Camilo — PurOriginals
+
+- LinkedIn: [linkedin.com/in/jcamiloard](https://www.linkedin.com/in/jcamiloard/)
+- Email: jcamiloard@gmail.com
